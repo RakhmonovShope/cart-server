@@ -1,0 +1,40 @@
+{
+  "cart": [
+    {
+      "image": "https://spoonacular.com/recipeImages/715594-312x231.jpg",
+      "title": "Homemade Garlic and Basil French Fries",
+      "pricePerServing": 83.23,
+      "servings": 2,
+      "missedIngredientCount": 2,
+      "authentication": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDNjZGRiN2M5MjBhNDJhN2MxNzU5YjciLCJpb3QiOjI0fQ.w8ZtAmdXmwhD08qQ_xm3zOeH3sM9FyHdsDr67PhXEFc",
+      "id": 1
+    },
+    {
+      "image": "https://spoonacular.com/recipeImages/715497-312x231.jpg",
+      "title": "Berry Banana Breakfast Smoothie",
+      "pricePerServing": 204.29,
+      "servings": 1,
+      "missedIngredientCount": 5,
+      "authentication": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDNjZGRiN2M5MjBhNDJhN2MxNzU5YjciLCJpb3QiOjI0fQ.w8ZtAmdXmwhD08qQ_xm3zOeH3sM9FyHdsDr67PhXEFc",
+      "id": 2
+    },
+    {
+      "image": "https://spoonacular.com/recipeImages/716426-312x231.jpg",
+      "title": "Cauliflower, Brown Rice, and Vegetable Fried Rice",
+      "pricePerServing": 112.39,
+      "servings": 8,
+      "missedIngredientCount": 9,
+      "authentication": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDNjZGRiN2M5MjBhNDJhN2MxNzU5YjciLCJpb3QiOjI0fQ.w8ZtAmdXmwhD08qQ_xm3zOeH3sM9FyHdsDr67PhXEFc",
+      "id": 3
+    },
+    {
+      "image": "https://spoonacular.com/recipeImages/644387-312x231.jpg",
+      "title": "Garlicky Kale",
+      "pricePerServing": 69.09,
+      "servings": 2,
+      "missedIngredientCount": 3,
+      "authentication": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDNjZGRiN2M5MjBhNDJhN2MxNzU5YjciLCJpb3QiOjI0fQ.w8ZtAmdXmwhD08qQ_xm3zOeH3sM9FyHdsDr67PhXEFc",
+      "id": 4
+    }
+  ]
+}
